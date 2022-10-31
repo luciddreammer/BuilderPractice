@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\bin\Debug\net6.0\HouseBuilder.exe
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\bin\Debug\net6.0\HouseBuilder.deps.json
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\bin\Debug\net6.0\HouseBuilder.runtimeconfig.json
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\bin\Debug\net6.0\HouseBuilder.dll
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\bin\Debug\net6.0\HouseBuilder.pdb
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\HouseBuilder.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\HouseBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\HouseBuilder.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\HouseBuilder.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\HouseBuilder.dll
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\refint\HouseBuilder.dll
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\HouseBuilder.pdb
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\HouseBuilder.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Programowanie\dotNET\DesignPatterns\Builder\HouseBuilder\HouseBuilder\obj\Debug\net6.0\ref\HouseBuilder.dll
